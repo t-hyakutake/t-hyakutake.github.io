@@ -88,6 +88,7 @@ h2 {
 .introduce {
   padding: 1em 1em;
   text-align: left;
+  
 }
 
 .container {
@@ -153,7 +154,7 @@ skill */
 
 .s-item-card i {
   font-size: 2em;
-  color: chartreuse;
+  /* color: chartreuse; */
 }
 
 .s-item-card:before {
